@@ -16,7 +16,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-Set your Telegram credentials in environment variables or directly in the script.
+Set your Telegram credentials (BOT TOKEN & CHAT ID) in environment variables or directly in the script.
 
 ## Disclaimer
 This tool is for educational purposes only. It is **NOT** financial advice.
